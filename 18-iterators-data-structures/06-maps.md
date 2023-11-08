@@ -72,7 +72,7 @@ We can also get the `keys`, `values` and `entries` from the map. These 3 methods
 
 ```js
 peopleMap.keys(); // MapIterator {"Brad", "John", "Jill"}
-peopleMap.values(); // MapIterator {{…}, {…}, {…}}
+peopleMap.values(); // 
 peopleMap.entries(); // MapIterator {"Brad" => {…}, "John" => {…}, "Jill" => {…}}
 ```
 
